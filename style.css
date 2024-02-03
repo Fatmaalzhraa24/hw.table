@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(rgb(105, 102, 102), rgb(63, 102, 157), rgb(167, 115, 18))transparent;
+    color: aliceblue;
+    font-family: serif;
+
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: "Game of Thrones";
+}
+.tab{
+    
+    width: 900px;
+    height: 200px;
+    text-align: center;
+    
+}
+.th{
+    background-color: #096cc2;
+}
+
+.div{
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin-top: 100px;
+    
+    margin-left: 300px;
+    font-family: "Game of Thrones";
+}
